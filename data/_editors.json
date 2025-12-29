@@ -5,8 +5,23 @@
         "link": "https://www.youtube.com/@sonnygd"
     },
     {
-        "role": "admin"
-        "name": "Setharius"
-        "link": "https://www.youtube.com/@SethariusT"
+        "role": "admin",
+        "name": "Itsktpag",
+        "link": "https://www.youtube.com/@itsktpag"
+    },
+    {
+        "role": "helper",
+        "name": "List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "trial",
+        "name": "Trial List Helper",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
+    },
+    {
+        "role": "dev",
+        "name": "List Coder",
+        "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
