@@ -1,0 +1,18 @@
+{
+    "id": 118843922,
+    "name": "GRIEF y los chipmunk",
+    "author": "SonnyReal",
+    "creators": ["SonnyReal"],
+    "verifier": "SonnyReal",
+    "verification": "https://youtu.be/Rlh_itz2eRo",
+    "percentToQualify": "60",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Doktor Dreistein",
+            "link": "https://www.youtube.com/watch?v=QT_fVnl1xYQ&t=2s",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}
