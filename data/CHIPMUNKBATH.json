@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
+    "id": 123068526,
+    "name": "ChipmunkBath",
+    "author": "Setharius",
+    "creators": ["Setharius"],
+    "verifier": "Sonny",
+    "verification": "https://youtu.be/FKMScqM-ci8",
+    "percentToQualify": "60",
     "records": [
     ]
 }
